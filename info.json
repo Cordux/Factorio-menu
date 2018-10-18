@@ -1,0 +1,10 @@
+{
+    "name": "CheatMode",
+    "version": "0.0.1",
+    "title": "Cheat Meny",
+    "author": "Cordux",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "description": "This mod adds a cheat meny instead of writing it in the chat"
+}
